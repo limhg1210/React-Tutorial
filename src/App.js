@@ -37,7 +37,6 @@ class App extends Component {
           customers.map(c => {
             return (
               <Customer
-                {/* map 함수를 사용할 때는 key 값이 필수로 있어야 함!*/}
                 key={c.id}
                 id={c.id}
                 image={c.image}

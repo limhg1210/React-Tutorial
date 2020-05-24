@@ -1,3 +1,6 @@
+## Management System
+이 프로젝트는 React 스터디를 위한 예제 프로젝트 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
